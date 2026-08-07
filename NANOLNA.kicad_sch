@@ -2434,7 +2434,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b0e7172-f763-4da4-8b7d-37e40c12d639")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 34.29 16.256 0)
 			(effects
 				(font
@@ -2501,7 +2501,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -2517,7 +2517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13d006f7-3858-49b9-bb7c-f76fdd110eaf")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR0107"
 			(at 49.53 85.09 0)
 			(effects
 				(font
@@ -2567,7 +2567,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR03")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -2582,7 +2582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a3b527c-ca02-4c46-b6ad-36f7f6d65aa9")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 91.694 51.816 0)
 			(effects
 				(font
@@ -2636,7 +2636,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -2652,7 +2652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "348c19d3-e76c-4a90-b119-68a5703c252e")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 110.49 72.6831 0)
 			(effects
 				(font
@@ -2706,7 +2706,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -2926,7 +2926,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c8a6922-941b-43ed-b724-d83e4cd2d3cb")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR0102"
 			(at 63.5 64.77 0)
 			(effects
 				(font
@@ -2976,7 +2976,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR04")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -2991,7 +2991,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66894a9e-ec4b-4f1b-b4f5-e1725ef23917")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR0101"
 			(at 73.66 64.77 0)
 			(effects
 				(font
@@ -3041,7 +3041,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR06")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -3262,7 +3262,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4ba08d1-f5a5-48ea-b8f9-d7b256c85b41")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR0104"
 			(at 96.52 53.34 0)
 			(effects
 				(font
@@ -3312,7 +3312,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR09")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -3328,7 +3328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5549def-083d-41d9-ad8a-d1ba291799b8")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR0103"
 			(at 73.66 87.63 0)
 			(effects
 				(font
@@ -3378,7 +3378,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR07")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -4018,7 +4018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be45c832-02c2-4bc6-99af-733fd383aa80")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR0106"
 			(at 30.48 55.88 0)
 			(effects
 				(font
@@ -4068,7 +4068,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR02")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -4083,7 +4083,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0ff0847-b065-4e12-9dae-a40a8206a01d")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0109"
 			(at 36.83 74.93 0)
 			(effects
 				(font
@@ -4133,7 +4133,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR01")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -4148,7 +4148,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6eaf2ba-1f85-4cbb-8502-a460503f7424")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR0108"
 			(at 57.15 44.45 0)
 			(effects
 				(font
@@ -4198,7 +4198,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR05")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -4213,7 +4213,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea7b7f7c-dfc7-47e7-a840-43de05fa66ac")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR0105"
 			(at 106.68 85.09 0)
 			(effects
 				(font
@@ -4263,7 +4263,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "#PWR08")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -4278,7 +4278,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f30b4336-ff45-46bb-bac3-cc8efc3767f6")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 40.64 76.454 0)
 			(effects
 				(font
@@ -4332,7 +4332,7 @@
 		(instances
 			(project "random rf stuff"
 				(path "/32a38c29-f6c2-4b2a-9669-d7bdc565a805"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
